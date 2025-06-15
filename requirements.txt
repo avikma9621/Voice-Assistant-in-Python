@@ -1,0 +1,5 @@
+<h4>speechrecognition
+pyttsx3
+pyjokes
+wikipedia
+pyaudio</h4>
