@@ -1,17 +1,17 @@
-<h4>Python Voice Assistant</h4>
+<h3>Python Voice Assistant</h3>
 
-<h3>A simple voice assistant built using Python that can greet you, tell the time/date, open websites, search Google, and more.</h3>
+<h4>A simple voice assistant built using Python that can greet you, tell the time/date, open websites, search Google, and more.</h4>
 
-<h5>Features</h5>
- <h3> Speech Recognition
+<h3>Features</h3>
+ <h4> Speech Recognition
   Text-to-Speech
   Google Search
   Wikipedia Summary
-  Tells Jokes</h3>
+  Tells Jokes</h4>
 
-<h4>Requirements</h4>
-<h3>Bash
-pip install -r requirements.txt</h3>
+<h3>Requirements</h3>
+<h4>Bash
+pip install -r requirements.txt</h4>
 
-<h4>Author</h4>
-<h3>Abhishek Kumar Maury</h3>
+<h3>Author</h3>
+<h4>Abhishek Kumar Maury</h4>
